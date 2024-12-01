@@ -18,7 +18,7 @@ Files in this Repository
         Usage: Run this script after generating the CSV files to classify the data.
         Dependencies: Requires Python with libraries such as numpy, pandas, scikit-learn, and matplotlib.
 
-    matrix_elements_extraction.py
+    matrix_elements_reconstruction.py
         Description: A Python script to extract and compute the matrix elements of the quantum system using the classified data.
         Usage: Run this script after completing the classification step.
         Dependencies: Requires Python with libraries such as numpy, pandas, and scipy.
